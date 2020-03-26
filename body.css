@@ -1,0 +1,36 @@
+.jumbotron h1 {
+  margin-top: -3% ;
+  text-align: center;
+  color: white;
+}
+.jumbotron p {
+  text-align: center;
+  color: white;
+}
+
+.jumbotron {
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url("https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1057&q=80")
+}
+
+.hero-image {
+ 
+ height: 20em;
+}
+
+.projects {
+  background-color: aqua;
+}
+
+.projectsHeader {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+#projectsParagraph {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
